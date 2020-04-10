@@ -9,6 +9,7 @@ You may not find this useful if you are familiar with Git
 
 ## Things You Need to Know
 - [How to Git](GIT_TUTORIAL.md)
+- [Useful Bash commands](BASH_COMMANDS.md)
 - Problems you may encounter\
   Contact me for the problems you encountered and I will update this tutorial
   - [General Fix](TROUBLE_SHOOTING.md#general-fix)
